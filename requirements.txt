@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+pinecone-client>=3.0.0
+langchain-core>=0.2.0
+langchain-community>=0.1.0
+langchain-mistralai>=0.1.0
+langchain-pinecone>=0.0.4
+pypdf>=4.1.0
+sentence-transformers>=2.2.2
+torch==2.2.1 --index-url https://download.pytorch.org/whl/cpu
